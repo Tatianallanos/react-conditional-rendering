@@ -1,0 +1,18 @@
+.estudiante-cont{
+    border: 2px solid red;
+    text-align: left;
+    margin-bottom: 5px;
+    width: 91%;
+    margin: 0 auto;
+    min-height: 20px;
+    margin-bottom: 5px;
+}
+
+.estudiante-without-nota{
+    color: red;
+}
+
+.estudiante-without-generoFemenino{
+    font-weight: bold;
+}
+

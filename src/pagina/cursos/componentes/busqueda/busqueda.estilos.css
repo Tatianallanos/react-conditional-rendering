@@ -1,0 +1,13 @@
+.busqueda-cont{
+    width: 85%;
+    margin: 0 auto;
+    min-height: 70px;
+    border: 1px solid blue;
+    padding: 10px;
+    margin-top:10px;
+    text-align: left;
+}
+
+.search-input {
+    margin-top: 10px;
+}
